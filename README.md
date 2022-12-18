@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={eliashenriksen}}">
+  test
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashenriksen)](https://github.com/eliashenriksen)
