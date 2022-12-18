@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://cdn.discordapp.com/attachments/928492278635454485/1054118527994429500/github-profile-banner.gif)
+![image](https://cdn.discordapp.com/attachments/928492278635454485/1054120004137787522/github-profile-banner.gif)
 
 <h1 align="center">
   Im Elias, a designer & developer from Norway
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   🌐 You can find my Frontend and Design portfolio on my website
 </p>
 <p align="center">
-  <a href="eliashenriksen.no">eliashenriksen.no</a>
+  <a href="https://www.eliashenriksen.no/">eliashenriksen.no</a>
 </p>
 
 <p align="center">
