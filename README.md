@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  test
+  🌐 You can find my Frontend and Design portfolio on my website.
+</p>
+<p align="center">
+  <a href="eliashenriksen.no">eliashenriksen.no</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=eliashenriksen&style=flat-square&color=blueviolet)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="center">
+  ✉️ You can contact me the following ways
+</p>
