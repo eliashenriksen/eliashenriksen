@@ -21,4 +21,5 @@ Here are some ideas to get you started:
   test
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashenriksen)](https://github.com/eliashenriksen)
+![](https://komarev.com/ghpvc/?username=eliashenriksen&style=flat-square&color=blueviolet)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
