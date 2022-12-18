@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://cdn.discordapp.com/attachments/928492278635454485/1054115500717776916/github-profile-banner.gif)
+![image](https://cdn.discordapp.com/attachments/928492278635454485/1054118527994429500/github-profile-banner.gif)
 
 <h1 align="center">
-  Hi! Im Elias, a designer & developer from Norway
+  Im Elias, a designer & developer from Norway
 </h1>
 
 <p align="center">
