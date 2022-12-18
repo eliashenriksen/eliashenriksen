@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Hi there 👋 I'm Elias 👨‍💻
+  HI! IM ELIAS, A DESIGNER & DEVELOPER
 </h1>
 
 <p align='center'>
