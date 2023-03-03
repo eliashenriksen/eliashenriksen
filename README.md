@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 <p align="center">
   Follow along <a href="https://github.com/eliashenriksen/emojistory">here</a>
 </p>
+
+<p align="center">
+  ➡️ Future planned projects
+</p>
+<p align="center">
+  Lost Ark Ladder (think op.gg of Lost Ark, waiting for a more fleshed out API from the devs)
+</p>
