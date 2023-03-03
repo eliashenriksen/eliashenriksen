@@ -29,7 +29,13 @@ Here are some ideas to get you started:
 <p align="center">
   ✉️ How to contact me
 </p>
-
 <p align="center">
   <a href="mailto: elias.henriksen@hotmail.com">elias.henriksen@hotmail.com</a>
+</p>
+
+<p align="center">
+  👨‍💻 Currently working on
+</p>
+<p align="center">
+  Emojistory! (first release coming soon)
 </p>
