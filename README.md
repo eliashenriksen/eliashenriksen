@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   Emojistory! (first release coming soon)
+  <p>Follow allong</p><a href="https://github.com/eliashenriksen/emojistory">here</a>
 </p>
