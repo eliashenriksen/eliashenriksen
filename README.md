@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   Emojistory! (first release coming soon)
 </p>
 <p align="center">
-  Follow along <a href="https://github.com/eliashenriksen/emojistory">here</a>
+  Follow along <a href="https://github.com/eliashenriksen/emojistory-v2">here</a>
 </p>
 
 <p align="center">
