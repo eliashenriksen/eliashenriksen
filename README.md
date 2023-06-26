@@ -37,14 +37,17 @@ Here are some ideas to get you started:
   👨‍💻 Currently working on
 </p>
 <p align="center">
-  <a href="https://github.com/eliashenriksen/emojistory-v2">Emojistory! (first release coming soon)</a>
+  Overhaul of portfolio website
 </p>
 <p align="center">
-  Follow along <a href="https://github.com/eliashenriksen/emojistory-v2">here</a>
+  <a href="https://github.com/eliashenriksen/emojistory-v2">Emojistory! (first release coming soon)</a>
 </p>
 
 <p align="center">
   ➡️ Future planned projects
+</p>
+<p align="center">
+  Collab Projects
 </p>
 <p align="center">
   Lost Ark Ladder (think op.gg of Lost Ark, waiting for a more fleshed out API from the devs)
