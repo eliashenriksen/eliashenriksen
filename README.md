@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   👨‍💻 Currently working on
 </p>
 <p align="center">
-  Emojistory! (first release coming soon)
+  <a href="https://github.com/eliashenriksen/emojistory-v2">Emojistory! (first release coming soon)</a>
 </p>
 <p align="center">
   Follow along <a href="https://github.com/eliashenriksen/emojistory-v2">here</a>
